@@ -3,7 +3,7 @@
 A **Python CLI application** to help users track their personal expenses, categorize them, and generate expense reports. Each user's data is stored in a separate CSV file for simplicity.  
 
 ## ✨ Features
-- 📝 Add expenses with **date**, **category**, **description**, and **amount**  
+- 📝 Add expenses with **date**, **category**, **description**, and **amount** 
 - 📊 View all expenses in a readable format  
 - 📈 Generate expense reports:  
   - Total expenses  
