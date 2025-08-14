@@ -19,10 +19,6 @@ cd personal-expense-tracker
 Make sure you have Python 3 installed.
 
 Run the application:
-
-bash
-Copy
-Edit
 python tracker.py
 🚀 Usage
 Enter your Customer ID to load or create your expense file.
@@ -48,9 +44,6 @@ CSV columns: date, category, description, amount
 Python standard library (csv, datetime)
 
 📌 Example
-markdown
-Copy
-Edit
 ===== PERSONAL EXPENSE TRACKER =====
 1. Add Expense
 2. View Expenses
